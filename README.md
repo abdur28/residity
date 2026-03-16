@@ -10,6 +10,9 @@
 
 ### Web Platform
 ![Residity Homepage](residity.png)
+![Residity Homepage](residity1.png)
+![Residity Homepage](residity2.png)
+![Residity Homepage](residity3.png)
 *Property search with Buy/Rent/Short-Let tabs, location filtering, price range, and property type selection*
 
 ---
